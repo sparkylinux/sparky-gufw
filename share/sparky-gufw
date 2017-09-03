@@ -1,0 +1,1 @@
+?package(sparky-gufw):needs="X11" section="Applications/System"        title="Firewall Configuration" command="/usr/bin/gufw" icon="gufw"
